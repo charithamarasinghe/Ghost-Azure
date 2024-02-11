@@ -54,7 +54,7 @@
     },
     "repoUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/charithamarasinghe/Ghost-Azure"
+      "defaultValue": "https://github.com/<<PutYourGitHubUserHere>>/Ghost-Azure"
     },
     "branch": {
       "type": "string",
